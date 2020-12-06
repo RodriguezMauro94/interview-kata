@@ -15,7 +15,7 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
 }
 
-group = 'com.gildedrose'
+group = 'com.interview-kata'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '1.8'
 
